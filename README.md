@@ -8,7 +8,8 @@
 ### 步骤：
     1.下载libcurl源码：
           git clone https://github.com/curl/curl.git
-    2.进入curl工程目录执行./buildconf产生configure配置文件：
+	  注意：如果上面这个地址下不下来，我已经这个curl下载到Http_Curl目录下了。
+    2.进入curl工程目录执行./buildconf产生configure配置文件：
     3.执行产生的configure脚本：
          ./configure --enable-debug   在这里我只加了这个参数，为了后续的调试，
          如果还要其他参数，可以./configure --help查看其他可选参数。
