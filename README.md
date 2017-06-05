@@ -1,5 +1,6 @@
 # http_curl_download
 
+##  分别为php和c++的下载，php除了下载，还有压缩多个文件为zip的功能
 
 ##  说明：
      	在编译任何开源代码前可以先看看README， INSTALL等文件，会提供如何编译的信息。
